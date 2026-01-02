@@ -1,2 +1,4 @@
 # Assignment_2
-Python Assignment 2 Solutions
+My second repository 
+<br>
+Author - Himanshu sharma
